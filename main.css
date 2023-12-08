@@ -290,7 +290,14 @@
       align-items: center;
       padding: 0;
     }
-    .overlay .closebtn {
-      right: 45%;
-    }
+      
+    .overlay a {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    letter-spacing: 10PX;
+  }
   }
